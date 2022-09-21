@@ -1,0 +1,46 @@
+body {
+    background-color: aqua;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+h1 {
+    color: blue;
+    background-color: aqua;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    opacity: 1;
+}
+
+
+
+a:hover {
+    color: orangered;
+}
+
+.Text_Box {
+    width: auto;
+    padding: 1%;
+    border-top-style: hidden;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    background-color: lightgray;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#Small_thumbnails {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Main_Image {
+    text-align: center;
+}
