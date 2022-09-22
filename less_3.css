@@ -1,0 +1,27 @@
+h1 {
+    color: black;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#Main_Pic {
+    width: 547px;
+    height: 273px;
+}
+
+a {
+    text-decoration: none;
+}
+
+blockquote {
+    background-color: beige;
+    block-size: auto;
+    padding: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
